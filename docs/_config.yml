@@ -1,5 +1,5 @@
 markdown: kramdown
-remote_theme: pages-themes/hacker
+remote_theme: pages-themes/slate
 kramdown:
   auto_ids          : true
   entity_output     : as_char
