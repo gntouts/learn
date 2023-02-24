@@ -1,5 +1,5 @@
 markdown: kramdown
-theme: tactile
+theme: hacker
 kramdown:
   auto_ids          : true
   entity_output     : as_char
