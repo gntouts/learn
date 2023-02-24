@@ -1,5 +1,5 @@
 markdown: kramdown
-theme: hacker
+remote-theme: pages-themes/hacker
 kramdown:
   auto_ids          : true
   entity_output     : as_char
